@@ -1,1 +1,5 @@
 create all feilds. 
+
+
+add all validations
+
